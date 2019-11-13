@@ -1,0 +1,24 @@
+agm-map {
+  height: 640px;
+}
+.info-panel {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.status-bar {
+  padding: 10px;
+  margin: 10px;
+}
+
+.map {
+  padding: 0;
+  margin: 0;
+}
+
+.action{
+  background-color: white;
+  color: #5D5D5D;
+}
